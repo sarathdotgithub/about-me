@@ -5,3 +5,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: nothing but serious
 
+![Language](https://img.shields.io/badge/Language-Python-blue)
